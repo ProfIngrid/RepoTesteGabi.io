@@ -1,0 +1,6 @@
+{
+    "sqltools.connections": [],
+    "dataworkspace.excludedProjects": [
+        "projeto final cy3/testDB/testDB.sqlproj"
+    ]
+}
